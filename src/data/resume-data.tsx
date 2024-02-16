@@ -97,7 +97,7 @@ export const RESUME_DATA = {
       company: "Freelance Developer",
       link: "#",
       badges: [],
-      title: "C++/ .Net, Flask, Python Developer",
+      title: "Flask, Python, .Net/ C# Developer",
       logo: NSNLogo,
       start: "2018",
       end: "2022",
