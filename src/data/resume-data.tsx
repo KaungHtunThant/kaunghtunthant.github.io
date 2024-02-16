@@ -22,8 +22,8 @@ import { GitHubIcon, LinkedInIcon, XIcon, FacebookIcon } from "@/components/icon
 export const RESUME_DATA = {
   name: "Kaung Htun Thant",
   initials: "KHT",
-  location: "Dubai, United Arab Emirates, UAE",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  location: "Yangon, Myanmar, MM",
+  locationLink: "https://maps.app.goo.gl/ZvSjAkgv73h8AtjFA",
   about:
     "Full Stack Developer speciallized in building powerful apps using latest technologies.",
   summary:
