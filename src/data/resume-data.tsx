@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Full Stack Developer speciallized in building powerful apps using latest technologies.",
   summary:
     "As a Full Stack Developer, I have successfully developed 3 major web applications and many other minor applications. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with PHP, Laravel, React JS, and MYSQL. I have over 3 years of experience in working with companies in Myanmar.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/53951056?u=707b9ec364018d2a8d3c2722282c6518d9f3dab4&v=4",
+  avatarUrl: "https://i.imgur.com/jI4C0Zb.jpg",
   personalWebsiteUrl: "https://kaunghtunthant.github.io",
   contact: {
     email: "kaunghtunthant@gmail.com",
