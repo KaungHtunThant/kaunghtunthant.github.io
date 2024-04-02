@@ -27,8 +27,8 @@ export const RESUME_DATA = {
   about:
     "Full Stack Developer speciallized in building powerful apps using latest technologies.",
   summary:
-    "As a Full Stack Developer, I have successfully developed 3 major web applications and many other minor applications. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with PHP, Laravel, React JS, and MYSQL. I have over 3 years of experience in working with companies in Myanmar.",
-  avatarUrl: "https://i.imgur.com/jI4C0Zb.jpg",
+    "With over 7+ years of experience in IT fields, Kaung Htun Thant brings a wealth of expertise in managing complex IT projects, particularly in cloud technology. He has a proven ability to enhance efficiency, having managed Myanmar's first Event Pass System, resulting in significant enhencement of data analysis. His proficiency in programming languages and cloud administration complements his strong career and creative problem-solving skills.",
+  avatarUrl: "https://avatars.githubusercontent.com/u/53951056?v=4",
   personalWebsiteUrl: "https://kaunghtunthant.github.io",
   contact: {
     email: "kaunghtunthant@gmail.com",
