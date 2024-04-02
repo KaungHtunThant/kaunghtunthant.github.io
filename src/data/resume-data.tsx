@@ -66,10 +66,10 @@ export const RESUME_DATA = {
       badges: ["Full Time"],
       title: "Full Stack Developer",
       logo: ParabolLogo,
-      start: "2023",
+      start: "2022",
       end: "2024",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "Lead and proficiently develop cost-effective and visually captivating websites utilizing a range of technologies including React JS, PHP, WordPress, Wix, Laravel, and other relevant platforms.",
     },
     {
       company: "KBTC Group of Companies",
@@ -77,10 +77,10 @@ export const RESUME_DATA = {
       badges: ["Full Time"],
       title: "Junior Developer → Full Stack Developer",
       logo: ClevertechLogo,
-      start: "2022",
-      end: "2023",
+      start: "2020",
+      end: "2022",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+        "Developed and implemented multiple websites and web applications, effectively managed Microsoft Azure infrastructure, employed Microsoft Power Automate, and utilized diverse cloud services to optimize operations and boost productivity.",
     },
     {
       company: "Silver Sea Media",
@@ -89,19 +89,9 @@ export const RESUME_DATA = {
       title: "IT Technician",
       logo: JojoMobileLogo,
       start: "2017",
-      end: "2021",
+      end: "2020",
       description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
-    },
-    {
-      company: "Freelance Developer",
-      link: "#",
-      badges: [],
-      title: "Flask, Python, .Net/ C# Developer",
-      logo: NSNLogo,
-      start: "2018",
-      end: "2022",
-      description: "Creating and testing software for LTE base stations",
+        "Provided expert consultation on IT-related matters, executed and administered Content Management Systems (CMS), Customer Relationship Management (CRM) platforms, and other pertinent systems. Designed and implemented local area networks (LANs) within office environments, adeptly troubleshooting a wide array of IT-related issues to ensure seamless operations.",
     },
   ],
   skills: [
@@ -188,7 +178,7 @@ export const RESUME_DATA = {
       logo: Minimal,
       link: {
         label: "useminimal.com",
-        href: "https://useminimal.com/",
+        href: "#",
       },
     },
   ],
