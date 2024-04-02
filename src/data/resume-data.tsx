@@ -20,9 +20,9 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon, FacebookIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Kaung Htun Thant",
+  name: "Kaung Htun Thant @ John",
   initials: "KHT",
-  location: "Yangon, Myanmar, MM",
+  location: "Dubai, United Arab Emirates",
   locationLink: "https://maps.app.goo.gl/ZvSjAkgv73h8AtjFA",
   about:
     "Full Stack Developer speciallized in building powerful apps using latest technologies.",
